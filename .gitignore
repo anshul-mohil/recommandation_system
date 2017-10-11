@@ -4,3 +4,6 @@
 .metadata
 .class
 .prefs
+.jsd*
+org.eclipse.*
+/target/*
