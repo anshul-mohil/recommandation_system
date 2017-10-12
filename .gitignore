@@ -7,3 +7,4 @@
 .jsd*
 org.eclipse.*
 /target/*
+/target/
