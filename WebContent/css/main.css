@@ -60,4 +60,37 @@ justify-content: space-evenly;
 }
 .list_container .thumb-container{
 box-sizing: border-box;
+<<<<<<< HEAD
 }
+=======
+}
+/* .list_container li{
+	box-sizing: border-box;
+}
+.main_thumbs {	
+	width: 100%;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+li img {
+	float: left;
+	margin: 0.5px;
+	border: 5px solid #fff;
+	-webkit-transition: box-shadow 0.5s ease;
+	-moz-transition: box-shadow 0.5s ease;
+	-o-transition: box-shadow 0.5s ease;
+	-ms-transition: box-shadow 0.5s ease;
+	transition: box-shadow 0.5s ease;
+}
+
+li img:hover {
+	-webkit-box-shadow: 0px 0px 7px rgba(255, 255, 255, 0.9);
+	box-shadow: 0px 0px 7px rgba(255, 255, 255, 0.9);
+} */
+>>>>>>> feature
